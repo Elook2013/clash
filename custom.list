@@ -1,5 +1,5 @@
 # 爱壹帆 走国外
-IP-CIDR,172.67.0.0/16no-resolve
+IP-CIDR,172.67.0.0/16,no-resolve
 IP-CIDR,104.26.0.0/16,no-resolve
 
 
