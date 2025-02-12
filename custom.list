@@ -8,4 +8,4 @@ IP-CIDR,104.26.0.0/16,no-resolve
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,yfsp.tv
 
-
+PROCESS-NAME,LookupViewService
